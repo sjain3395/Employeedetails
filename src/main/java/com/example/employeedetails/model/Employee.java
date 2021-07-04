@@ -1,4 +1,4 @@
-package com.example.Employeedetails;
+package com.example.employeedetails.model;
 
 public class Employee {
 
@@ -35,5 +35,6 @@ public class Employee {
     public void setEmail(String email) {
         this.email = email;
     }
+
 }
 
