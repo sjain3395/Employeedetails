@@ -7,9 +7,7 @@ import org.springframework.web.bind.annotation.RequestHeader;
 
 import java.util.List;
 
-/**
- * Created by ritjain on 6/25/2021.
- */
+
 public interface EmployeeService {
     Employee getEmployee(String userId);
     void addEmployee(Employee employee, String empId);
