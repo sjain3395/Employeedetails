@@ -8,9 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by ritjain on 6/25/2021.
- */
+
 @RestController
 public class EmployeeController {
 
